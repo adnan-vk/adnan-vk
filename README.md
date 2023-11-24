@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [COSNOVIX](https://cosnovix.com/)
 
-- 👨‍💻 All of my projects are available at [https://adnan-vk.github.io/A-V-K/](https://adnan-vk.github.io/A-V-K/)
+- 👨‍💻 All of my projects are available at https://adnan-vk.github.io/A-V-K/
 
 - 💬 Ask me about **HTML , CSS , JAVAASCRIPT, DART**
 
