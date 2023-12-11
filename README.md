@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adnan-vk.github.io/A-V-K/](https://adnan-vk.github.io/A-V-K/)
 
-- 💬 Ask me about **HTML , CSS , JAVAASCRIPT, DART**
+- 💬 Ask me about **HTML , CSS , JAVASCRIPT, DART**
 
 - 📫 How to reach me **adnanvk916@gmail.com**
 
