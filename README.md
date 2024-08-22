@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan-vk" alt="adnan-vk" /></a> </p>
 
-- 🔭 I’m currently working on **My Mini Project**
+- 🔭 I’m currently seeking job as **Flutter Developer**
 
 - 🌱 I’m currently learning **FLUTTER**
 
